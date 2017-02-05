@@ -1,0 +1,7 @@
+<apex:page showHeader="true" sidebar="false" standardStylesheets="true">
+	<apex:stylesheet value="{!URLFOR($Resource.RequestlyDemo, 'styles.css')}" />
+	<apex:includeScript value="{!URLFOR($Resource.RequestlyDemo, 'main.js')}" />
+	<h1>Requestly Demo</h1>
+	<p>It's pretty sweet if you love to develop your front-end components with an efficient workflow. Plus, it's free!</p>
+	<button onclick="popAnAlert()">Click Me!</button>
+</apex:page>

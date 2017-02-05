@@ -1,0 +1,13 @@
+{
+  "name": "requestly-visualforce-dev-workflow",
+  "version": "1.0.0",
+  "description": "It's time that front-end development workflow on Salesforce gets an efficiency boost.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Mitchell (@RogerMitchell)",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-dev-server": "^2.3.0"
+  }
+}
