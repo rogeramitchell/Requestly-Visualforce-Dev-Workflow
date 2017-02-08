@@ -1,3 +1,3 @@
 function popAnAlert() {
-	alert('Awesome!');
+	alert('Before changing stuff');
 }
