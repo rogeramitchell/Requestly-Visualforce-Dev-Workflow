@@ -18,7 +18,7 @@ Run `webpack-dev-server --content-base resource-bundles/RequestlyDemo.resource -
 ![images/webpack_terminal.png](images/webpack_terminal.png)
 
 ## Setting Up Requestly
-Our files are now served on localhost, so we can use [Requestly]() to replace requests to Salesforce's copy of the static resource to our localhost version. Open the Requestly extension by visiting the [rules page](http://requestly.in/rules) and click the **+** icon to create a new rule. We'll use the **Replace Host** configuration.
+Our files are now served on localhost, so we can use [Requestly](http://requestly.in) to replace requests to Salesforce's copy of the static resource to our localhost version. Open the Requestly extension by visiting the [rules page](http://requestly.in/rules) and click the **+** icon to create a new rule. We'll use the **Replace Host** configuration.
 
 ![images/requestly_new_rule.png](images/requestly_new_rule.png)
 
